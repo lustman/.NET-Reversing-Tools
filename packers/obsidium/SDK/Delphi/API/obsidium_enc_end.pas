@@ -1,1 +1,0 @@
-asm DB $EB,$09,$DE,$AD,$BE,$EF,$0F,$05,$CC,$CC,$CC; end;
